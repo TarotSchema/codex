@@ -6,6 +6,7 @@
     "canonical": "https://github.com/tarotschema/codex/blob/main/spreads-schema.json",
     "live_example": "https://tarotsmith.com/spreads-schema.json",
     "html_version": "https://tarotsmith.com/spreads-schema/",
+    "hugging_face": "https://huggingface.co/datasets/tarotsmith/TarotSchema/blob/main/spreads-schema.json",
     "schema_version": "1.0",
     "license":  {
     "structure": "MIT",
