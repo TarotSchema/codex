@@ -69,9 +69,14 @@ These links are regularly updated as readings and decks are added.
 
 ---
 
-## 📎 License
+## 🔖 License
 
-MIT License — free to use, fork, extend, or modify. Attribution appreciated. TarotSchema Codex written by Jeremy Lampkin. Tarot spread instructions ©copyright Tarotsmith.
+This repository uses a dual-license model:
+
+- **MIT License** — Applies to all JSON structure and schema definitions. Free to use in any context.
+- **Creative Commons Attribution 4.0 International (CC-BY 4.0)** — Applies to all written descriptions and narrative content. Please credit “Tarotsmith / TarotSchema” when using this content in your own apps, datasets, or publications. TarotSchema Codex written by Jeremy Lampkin. Tarot spread instructions ©copyright Tarotsmith.
+
+See LICENSE and LICENSE-CC-BY files for full terms.
 
 ---
 
