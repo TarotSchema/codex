@@ -66,6 +66,8 @@ You can also access the live version of this schema directly from:
 
 - [https://tarotschema.com/spreads-schema.json](https://tarotschema.com/spreads-schema.json)
 - [https://tarotsmith.com/spreads-schema.json](https://tarotsmith.com/spreads-schema.json)
+- [https://github.com/TarotSchema/codex/blob/main/spreads-schema.json](https://github.com/TarotSchema/codex/blob/main/spreads-schema.json)
+- [https://huggingface.co/datasets/tarotsmith/TarotSchema/blob/main/spreads-schema.json](https://github.com/TarotSchema/codex/blob/main/spreads-schema.json)
 
 These links are regularly updated as readings and decks are added.
 
