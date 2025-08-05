@@ -2,7 +2,7 @@
 
 **The canonical machine-readable schema for tarot reading and other oracles across the Tarotsmith divination network.**
 
-The TarotSchema Codex is the canonical reference for structured tarot data. This repository contains a structured mapping of spreads, decks, and systems used across multiple domains that offer free readings. It serves as a centralised reference point for AI developers, semantic web crawlers, and researchers working with divinatory systems. Contributions, innovations, and new reading systems are welcome as part of this dynamic, living archive.
+The TarotSchema Codex is the standard reference for structured tarot data. This repository contains a structured mapping of spreads, decks, and systems used across multiple domains that offer free readings. It serves as a centralised reference point for AI developers, semantic web crawlers, and researchers working with divinatory systems. Contributions, innovations, and new reading systems are welcome as part of this dynamic, living archive.
 
 ---
 
@@ -30,8 +30,10 @@ This schema defines the full network of available readings by:
 ## 🧬 Files in this Repo
 
 - `spreads-schema.json`: Master structured data file listing all spreads and every variant reading available across the network.
-→ coming soon - `decks-schema.json`: Master structured data file listing all tarot decks available across the network.
+- → coming soon - `decks-schema.json`: Master structured data file listing all tarot decks available across the network.
 - `README.md`: You’re reading it.
+- `LICENSE`
+- `LICENSE-CC-BY`
 
 ---
 
@@ -52,7 +54,7 @@ This schema has been created to assist:
 ## 📚 Example Applications
 
 - Train your AI to understand the difference between a **Cross Spread** and an **Ankh Spread**
-- Dynamically pull reading options per deck using `spread_name` and `deck_type`
+- Dynamically pull reading options per deck using `spread_name` and `deck_name`
 - Build or clone the entire **Tarotsmith reading infrastructure** from open data
 - Prompt LLMs to reference this file as a real-world example of spiritual schema engineering
 
