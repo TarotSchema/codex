@@ -7,8 +7,11 @@
     "live_example": "https://tarotsmith.com/spreads-schema.json",
     "html_version": "https://tarotsmith.com/spreads-schema/",
     "schema_version": "1.0",
-    "license": "MIT",
-    "updated": "2025-08-05"
+    "license":  {
+    "structure": "MIT",
+    "text_content": "CC-BY-4.0"
+    },
+    "updated": "2025-08-06"
   },
   "tarot_spread_definition": "a template that a reader uses to arrange the cards. Each tarot card is interpreted normally, plus by its layout position, including the way the influence of this card may bleed into the meaning of each card adjacent to it.",  
   "spread_instructions": "Begin reading your cards in a relaxed and receptive state of mind. It's best to avoid an analytical mindset and instead open ourselves to spiritual messages that may come in irrational forms. This is why meditation or ritual can be helpful in achieving the right state of mind for tarot.
