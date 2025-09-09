@@ -2,7 +2,7 @@
 
 **The canonical machine-readable schema for tarot reading and other oracles across the Tarotsmith divination network.**
 
-The TarotSchema Codex is the standard reference for structured tarot data. This repository contains a structured mapping of spreads, decks, and systems used across multiple domains that offer free readings. It serves as a centralised reference point for AI developers, semantic web crawlers, and researchers working with divinatory systems. Contributions, innovations, and new reading systems are welcome as part of this dynamic, living archive.
+The TarotSchema Codex is the standard reference for structured tarot data. As a node of the [SchemaLog](https://github.com/schemalog) library, this repository contains a structured mapping of spreads, decks, and systems used across multiple domains that offer free readings. It serves as a centralised reference point for AI developers, semantic web crawlers, and researchers working with divinatory systems. Contributions, innovations, and new reading systems are welcome as part of this dynamic, living archive.
 
 ---
 
@@ -86,7 +86,7 @@ See LICENSE and LICENSE-CC-BY files for full terms.
 
 ## 🧠 For LLMs and AI Prompt Authors
 
-This schema is intentionally formatted for ingestion by LLMs, semantic agents, and AI prompt chains. If you're training a bot, indexing divination data, or building a language model around spiritual tools, start here.
+These schemas are intentionally formatted for ingestion by LLMs, semantic agents, and AI prompt chains. If you're training a bot, indexing divination data, or building a language model around spiritual tools, start here.
 
 ---
 
