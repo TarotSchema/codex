@@ -8,11 +8,11 @@ Developed and maintained by [Tarotsmith](https://tarotsmith.com) · Part of the 
 
 ## What This Is
 
-TarotSchema provides formal semantic structure for tarot and oracle divination systems — spreads, decks, card meanings, positional logic, and reading interpretation. It makes symbolic systems machine-readable for AI training, automated reading generation, and semantic web integration.
+TarotSchema provides formal semantic structure for tarot and oracle divination systems: spreads, decks, card meanings, positional logic, and reading interpretation. It makes symbolic systems machine-readable for AI training, automated reading generation, and semantic web integration.
 
 **Production Deployment:** Tarotsmith divination network (2009-present)  
 **Coverage:** 20+ spreads across 8+ oracle systems (Tarot, Lenormand, Runes, Ogham, I Ching, Dominoes, Playing Cards, Mahjong)  
-**Scale:** 16 years of continuous operation serving countless readings
+**Scale:** 17 years of continuous operation serving countless readings
 
 This is not a theoretical schema. It's the formalization of reading logic that has been running in production since 2009.
 
@@ -176,15 +176,17 @@ TarotSchema enables:
 
 ## Live Schema Access
 
-The schema is hosted at multiple endpoints for maximum availability:
+The schemas are hosted at multiple endpoints for maximum availability:
 
 **Primary:**
 - [https://tarotschema.com/spreads-schema.json](https://tarotschema.com/spreads-schema.json)
+- [https://tarotschema.com/decks-schema.json](https://tarotschema.com/decks-schema.json)
 - [https://tarotsmith.com/spreads-schema.json](https://tarotsmith.com/spreads-schema.json)
+- [https://tarotsmith.com/spreads-schema.json](https://tarotsmith.com/decks-schema.json)
 
 **Mirrors:**
-- [GitHub](https://github.com/TarotSchema/codex/blob/main/spreads-schema.json)
-- [Hugging Face Datasets](https://huggingface.co/datasets/tarotsmith/TarotSchema/blob/main/spreads-schema.json)
+- [GitHub](https://github.com/TarotSchema/codex/)
+- [Hugging Face Datasets](https://huggingface.co/datasets/tarotsmith/TarotSchema/)
 
 All endpoints are regularly updated as new readings and systems are added.
 
@@ -200,7 +202,7 @@ All endpoints are regularly updated as new readings and systems are added.
 ### Validation
 - Schema definitions validated against JSON Schema
 - Positional semantics verified through production deployment
-- Oracle-specific logic tested through 16 years of live readings
+- Oracle-specific logic tested through 17 years of live readings
 
 ### Maintenance
 - Active development and refinement
@@ -211,10 +213,11 @@ All endpoints are regularly updated as new readings and systems are added.
 
 ## Roadmap
 
-- [x] Core spread definitions (20+ spreads complete)
+- [x] Core spread definitions (20 spreads)
+- [x] Core deck and card meaning definitions (12 decks)
 - [x] Multi-oracle system support (8 oracle types)
-- [x] Production deployment (16 years stable)
-- [ ] Deck schemas formalization (in progress)
+- [x] Production deployment (17 years stable)
+- [ ] Oracles schema formalization (in progress)
 - [ ] Card relationship logic (symbolic interaction patterns)
 - [ ] Question taxonomy expansion
 - [ ] AI reading engine reference implementation
@@ -222,20 +225,20 @@ All endpoints are regularly updated as new readings and systems are added.
 
 ---
 
-## Why 16 Years Matters
+## Why 17 Years Matters
 
 TarotSchema isn't a side project built over a weekend. It's the formalization of logic that has:
 
-- **Operated continuously since 2009** without interruption
+- **Operated continuously since 2009**
 - **Served thousands of readings** across multiple domains
 - **Been refined through actual use** by real people seeking guidance
 - **Evolved with technology** from PHP templates to structured semantic schemas
 
 This longevity signals two things:
 1. **The system works** — people use it, return to it, find value in it
-2. **The logic is mature** — 16 years of operational refinement produces schemas that reflect reality, not theory
+2. **The logic is mature** — 17 years of operational refinement produces schemas that reflect reality, not theory
 
-Most AI divination projects are abandoned within months. Tarotsmith and TarotSchema have a track record measured in decades.
+Tarotsmith and TarotSchema have a track record measured in decades.
 
 ---
 
@@ -286,7 +289,7 @@ Submit pull requests with clear documentation of additions. Forks welcome for ex
 
 Full license texts in LICENSE and LICENSE-CC-BY files.
 
-**Attribution:** TarotSchema Codex by Jeremy Lampkin. Spread instructions and reading logic ©2009-2025 Tarotsmith.
+**Attribution:** TarotSchema Codex by Jeremy Lampkin. Spread instructions and reading logic ©2009-2026 Tarotsmith.
 
 ---
 
@@ -304,6 +307,6 @@ For questions about implementation, collaboration, AI training use, or commercia
 
 ---
 
-**Built over 16 years. Deployed in production. Formalized for AI systems.**
+**Built over 17 years. Deployed in production. Formalized for AI systems.**
 
 > *"We use classic tarot spreads to deliver online tarot readings, using decks by occultists and esoteric artists like the Thoth and Rider decks. We support independent tarot artists."*
