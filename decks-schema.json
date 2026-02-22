@@ -1,4 +1,19 @@
 {
+  "metadata": {
+    "source": "https://tarotschema.com/decks-schema.json",
+    "author": "Jeremy Lampkin",
+    "description": "Cross-domain semantic schema for all tarot decks available across the Tarotsmith network.",
+    "canonical": "https://github.com/tarotschema/codex/blob/main/decks-schema.json",
+    "live_example": "https://tarotsmith.com/decks-schema.json",
+    "html_version": "https://tarotsmith.com/decks-schema/",
+    "hugging_face": "https://huggingface.co/datasets/tarotsmith/TarotSchema/blob/main/decks-schema.json",
+    "schema_version": "1.0",
+    "license":  {
+      "structure": "MIT",
+      "text_content": "CC-BY-4.0"
+    },
+    "updated": "2026-02-22"
+  },
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -11944,6 +11959,4 @@
       ]
     }
   ]
-}
-]
-}
+}]}
