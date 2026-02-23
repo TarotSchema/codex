@@ -93,14 +93,9 @@ Each spread includes:
 
 ### Decks (`decks-schema.json`)
 
-**Status:** In progress — Expected completion Q2 2025
-
-Each deck will include:
+Each deck includes:
 - **Card definitions** with upright and reversed meanings
-- **Archetypal associations** (Jungian, mythological, elemental)
-- **Symbolic elements** and their semantic significance
 - **Deck-specific interpretation notes** (Thoth vs Rider-Waite vs Marseille differences)
-- **Artist attribution** and deck history
 - **Image URLs** for each card (where licensing permits)
 
 ---
@@ -215,9 +210,9 @@ All endpoints are regularly updated as new readings and systems are added.
 
 - [x] Core spread definitions (20 spreads)
 - [x] Core deck and card meaning definitions (12 decks)
+- [x] Core oracle meaning definitions (which use the same spreads)
 - [x] Multi-oracle system support (8 oracle types)
 - [x] Production deployment (17 years stable)
-- [ ] Oracles schema formalization (in progress)
 - [ ] Card relationship logic (symbolic interaction patterns)
 - [ ] Question taxonomy expansion
 - [ ] AI reading engine reference implementation
@@ -227,7 +222,7 @@ All endpoints are regularly updated as new readings and systems are added.
 
 ## Why 17 Years Matters
 
-TarotSchema isn't a side project built over a weekend. It's the formalization of logic that has:
+TarotSchema is the formalization of logic that has:
 
 - **Operated continuously since 2009**
 - **Served thousands of readings** across multiple domains
