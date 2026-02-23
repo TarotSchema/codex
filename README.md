@@ -174,14 +174,14 @@ TarotSchema enables:
 The schemas are hosted at multiple endpoints for maximum availability:
 
 **Primary:**
-- [https://tarotschema.com/spreads-schema.json](https://tarotschema.com/spreads-schema.json)
-- [https://tarotschema.com/decks-schema.json](https://tarotschema.com/decks-schema.json)
-- [https://tarotsmith.com/spreads-schema.json](https://tarotsmith.com/spreads-schema.json)
-- [https://tarotsmith.com/spreads-schema.json](https://tarotsmith.com/decks-schema.json)
+- [Spreads Schema](https://tarotsmith.com/spreads-schema.json)
+- [Decks Schema](https://tarotsmith.com/decks-schema.json)
+- [Oracles Schema](https://tarotsmith.com/oracles-schema.json)
 
 **Mirrors:**
-- [GitHub](https://github.com/TarotSchema/codex/)
-- [Hugging Face Datasets](https://huggingface.co/datasets/tarotsmith/TarotSchema/)
+- [Website](https://tarotschema.com)
+- [GitHub Repository](https://github.com/TarotSchema/codex/)
+- [HuggingFace Dataset](https://huggingface.co/datasets/tarotsmith/TarotSchema/)
 
 All endpoints are regularly updated as new readings and systems are added.
 
